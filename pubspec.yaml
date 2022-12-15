@@ -1,7 +1,8 @@
 name: flutter_contacts
 description: Flutter plugin to read, create, update, delete and observe native contacts on Android and iOS, with group support, vCard support, and contact permission handling
-version: 1.1.5+1
-homepage: https://github.com/QuisApp/flutter_contacts
+version: 1.1.6
+homepage: https://github.com/FerryAr/flutter_contacts
+publish_to: "none"
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
